@@ -1,26 +1,34 @@
-📊 Customer Purchase Analysis
-🔍 Project Overview
-This project provides an in-depth analysis of customer purchase behavior, focusing on the number of purchase orders (POs) and total transaction amounts. The goal is to uncover key trends, identify top customers, and provide insights into purchasing patterns.
+# 📊 Customer Orders Analysis – Purchase Insights & Visualization  
 
-📂 Dataset Details
-📌 File Name: count POs and total amount for each customer.xlsx
-📌 Key Data Fields:
+## 📌 Project Overview  
+This project focuses on **analyzing customer purchase behavior**, including the **count of purchase orders (POs) and total transaction amounts** for each customer. The analysis provides insights into **customer segmentation, high-value clients, and purchasing trends** to support business decision-making.  
 
-🏷 Customer Name – Identifies each customer
-📦 Ct of POs – Number of purchase orders per customer
-💰 Total Amount – Total transaction value of purchases
-📊 Data Visualization Preview:
+## 🔹 Key Components  
 
+### **1️⃣ Data Collection & Processing**  
+- Compiled customer transaction records into a structured dataset.  
+- Processed data to extract **total purchase amounts & order counts per customer**.  
 
-📈 Key Insights
-✅ Top Customers – Identify the highest spending customers
-✅ Frequent Buyers – Analyze which customers place the most orders
-✅ Spending Trends – Compare order frequency vs. total spending
+### **2️⃣ Data Visualization & Insights**  
+- Created **interactive dashboards & reports** to highlight purchasing trends.  
+- Visualized **top customers by purchase count & total revenue contribution**.  
 
-This analysis helps businesses optimize sales strategies, identify loyal customers, and maximize revenue opportunities.
+### **3️⃣ Business Impact Analysis**  
+- Identified **high-value customers** to optimize sales & marketing strategies.  
+- Assessed **patterns in purchase frequency & transaction values**.  
 
-📥 Access the Data
-📄 Dataset: Download the Excel File
-📷 Visualization: View the Image
+## 📊 Key Findings  
+✔ **Top customers** contribute significantly to total revenue.  
+✔ Purchase frequency varies across different **customer segments**.  
+✔ **Data-driven insights** can enhance customer relationship management.  
 
-🚀 Ready to dive into the data? Let’s explore customer purchasing trends!
+## ⚡ Tools Used  
+✅ **Excel for Data Processing**  
+✅ **Tableau for Interactive Dashboards**  
+✅ **Power BI for Additional Visualizations**  
+
+## 📂 Project Files  
+🔹 [Customer Orders Dataset (Excel)](https://github.com/MerouaneNedjar/portofolio_project/blob/main/count%20POs%20and%20total%20amount%20for%20each%20customer.xlsx)  
+ 
+
+🚀 **This project demonstrates my expertise in data analysis, customer insights, and visualization techniques.**  
